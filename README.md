@@ -7,11 +7,11 @@
 |_| |_|\___|_|_|\___( )    \_/\_/ \___/|_|  |_|\__,_(_)
                     |/                                 
 ```                 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=superisuer&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superisuer&layout=donut&show_icons=true&theme=dark)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=superisuer&show_icons=false&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superisuer&layout=donut&show_icons=false&theme=dark)
 
 ```
-                           _                     
+                           _                      
  ___ _   _ _ __   ___ _ __(_)___ _   _  ___ _ __ 
 / __| | | | '_ \ / _ \ '__| / __| | | |/ _ \ '__|
 \__ \ |_| | |_) |  __/ |  | \__ \ |_| |  __/ |   
